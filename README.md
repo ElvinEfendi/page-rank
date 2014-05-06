@@ -1,6 +1,8 @@
 Page Rank algorithm using Hadoop
 =========
 
+This is one of my courseworks to get familiar with Map Reduce paradigm and Page Rank algorithm.
+
 Jar is exported to the jar folder and also there are external library jsoup-1.7.3.jar inside libs folder.
 
 To run the application:
